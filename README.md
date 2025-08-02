@@ -1,7 +1,6 @@
-Meesho Category Performance Analysis (Simulated)
 This is a data analysis project inspired by the business model of Meesho, built using Microsoft Excel. It focuses on category-wise performance in terms of revenue, returns, delivery time, and profitability.
 
- Project Goal
+ Project Goal:
 To extract actionable insights from simulated e-commerce data using pivot tables, calculated columns, and visualizations.
 
  Tools & Skills Used
@@ -17,7 +16,7 @@ To extract actionable insights from simulated e-commerce data using pivot tables
 - Regional Performance
 
  Included Files
--  ‘Category_Performance_Analysis_Meesho.xlsx’– Main working file  
+-  ‘Category_Performance_Analysis.xlsx’– Main working file  
 -  ‘Dashboard_Report.pdf’ – One-page visual dashboard  
 -  ‘Summary_Insights.pdf’ – Key findings in infographic format  
 
